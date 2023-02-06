@@ -1,0 +1,132 @@
+class Descript {
+  String title, companyName, companyNum, refNum, date, time;
+  Descript(
+      {required this.title,
+      required this.companyName,
+      required this.companyNum,
+      required this.refNum,
+      required this.date,
+      required this.time});
+}
+
+List<Descript> deskripsi = [
+  Descript(
+      title: 'Transfer',
+      companyName: 'Gopay',
+      companyNum: '52918976875476986',
+      refNum: '447487789980',
+      date: '11 Mei 2045',
+      time: '13:00'),
+  Descript(
+      title: 'BRIVA',
+      companyName: 'PT Inklusi Keuangan Nusantara - ',
+      companyNum: '39318564875476986',
+      refNum: '447487789980',
+      date: '11 Apr 2045',
+      time: '12:00'),
+  Descript(
+      title: 'Transfer',
+      companyName: 'Link Aja',
+      companyNum: '81439076875476986',
+      refNum: '447487789980',
+      date: '16 Mar 2045',
+      time: '17:00'),
+  Descript(
+      title: 'Transfer',
+      companyName: 'PT Inklusi Keuangan Nusantara - ',
+      companyNum: '40918976875178986',
+      refNum: '447487789980',
+      date: '11 Mar 2045',
+      time: '19:00'),
+  Descript(
+      title: 'BRIVA',
+      companyName: 'PT Inklusi Keuangan Nusantara - ',
+      companyNum: '09218912795476986',
+      refNum: '447487789980',
+      date: '2 Mar 2045',
+      time: '14:00'),
+  Descript(
+      title: 'BRIVA',
+      companyName: 'Gopay',
+      companyNum: '16218976875476986',
+      refNum: '447487789980',
+      date: '1 Mar 2045',
+      time: '12:00'),
+  Descript(
+      title: 'BRIVA',
+      companyName: 'Dana',
+      companyNum: '78218976875476986',
+      refNum: '447487789980',
+      date: '28 Feb 2045',
+      time: '08:00'),
+  Descript(
+      title: 'BRIVA',
+      companyName: 'Gopay',
+      companyNum: '20218976875476986',
+      refNum: '447487789980',
+      date: '26 Feb 2045',
+      time: '10:00'),
+  Descript(
+      title: 'Transfer',
+      companyName: 'Gopay',
+      companyNum: '31218976875476986',
+      refNum: '447487789980',
+      date: '10 Feb 2045',
+      time: '19:00'),
+  Descript(
+      title: 'Transfer',
+      companyName: 'Gopay',
+      companyNum: '21218976875476986',
+      refNum: '447482189980',
+      date: '9 Feb 2045',
+      time: '11:00'),
+  Descript(
+      title: 'BRIVA',
+      companyName: 'Gopay',
+      companyNum: '089318976875476986',
+      refNum: '447487789980',
+      date: '8 Feb 2045',
+      time: '21:00'),
+  Descript(
+      title: 'Transfer',
+      companyName: 'Ajaib',
+      companyNum: '67218976875476986',
+      refNum: '447487789980',
+      date: '5 Feb 2045',
+      time: '13:00'),
+  Descript(
+      title: 'BRIVA',
+      companyName: 'Gopay',
+      companyNum: '71318976875476986',
+      refNum: '940487789980',
+      date: '4 Feb 2045',
+      time: '12:00'),
+  Descript(
+      title: 'Transfer',
+      companyName: 'Dana',
+      companyNum: '52918976875476986',
+      refNum: '787487789980',
+      date: '2 Feb 2045',
+      time: '22:00'),
+  Descript(
+      title: 'BRIVA',
+      companyName: 'Gopay',
+      companyNum: '21218976875476986',
+      refNum: '632487789980',
+      date: '25 Jan 2045',
+      time: '12:00'),
+  Descript(
+      title: 'Transfer',
+      companyName: 'Link Aja',
+      companyNum: '09218976875476986',
+      refNum: '197487789980',
+      date: '23 Jan 2045',
+      time: '10:00'),
+  Descript(
+      title: 'Transfer',
+      companyName: 'Gopay',
+      companyNum: '19288976875476986',
+      refNum: '917487789980',
+      date: '11 Feb 2045',
+      time: '14:00'),
+];
