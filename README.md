@@ -1,16 +1,11 @@
-# bri
+# Aplikasi Mobile Bank Rakyat Indonesia
 
-A new Flutter project.
+#dart #flutter #firebase
 
-## Getting Started
+## Deskripsi Project
 
-This project is a starting point for a Flutter application.
+Project ini merupakan aplikasi mobile yang saya kembangkan menggunakan Flutter framework. Dalam proyek ini, saya mencoba membuat antarmuka pengguna (UI) dari aplikasi mobile Bank BRI, sambil mengimplementasikan layanan autentikasi menggunakan Firebase.
 
-A few resources to get you started if this is your first Flutter project:
+## Tampilan Project
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![flutter](https://github.com/baicorp/bank-rakyat-indonesia-app-ui/assets/79925391/27d8cde4-45dc-44de-a7fd-a86b24efb1bd)
